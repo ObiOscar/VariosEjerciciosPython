@@ -1,0 +1,3 @@
+C:\\Users\\ASIR\\Desktop\\PracticaCSV\\Lista_compra.csv
+C:\\Users\\ASIR\\Desktop\\PracticaCSV\\agenda.csv
+C:\\Users\\ASIR\\Desktop\\PracticaCSV\\red.csvv
